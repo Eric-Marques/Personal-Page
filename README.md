@@ -1,5 +1,5 @@
 # Hi there, this is some project that I did!
-Personal page sketch v1. <br>
+Personal page v1. <br>
 Made using only HTML and CSS, i will try to implement JS someday.
 
 ![image](https://user-images.githubusercontent.com/67469148/118999380-9acc2080-b960-11eb-94a9-746422de50ca.png)
